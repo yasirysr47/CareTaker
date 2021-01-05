@@ -137,6 +137,9 @@ ankylosing spondylitis,the vertebrae in your lower back
 ankylosing spondylitis,"the places where your tendons and ligaments attach to bones, mainly in your spine, but sometimes along the back of your heel"
 ankylosing spondylitis,the cartilage between your breastbone and ribs
 ankylosing spondylitis,your hip and shoulder joints
+barrett's esophagus,frequent heartburn and regurgitation of stomach contents
+barrett's esophagus,difficulty swallowing food
+barrett's esophagus,"less commonly, chest pain"
 niemann-pick,clumsiness and difficulty walking
 niemann-pick,excessive muscle contractions (dystonia) or eye movements
 niemann-pick,sleep disturbances
@@ -317,9 +320,9 @@ polycythemia vera,a feeling of fullness soon after eating and bloating or pain i
 polycythemia vera,"unusual bleeding, such as a nosebleed or bleeding gums"
 polycythemia vera,"painful swelling of one joint, often the big toe"
 polycythemia vera,shortness of breath and difficulty breathing when lying down
-idradenitis suppurativa,"blackheads. small pitted areas of skin containing blackheads — often appearing in pairs or a ""double-barreled"" pattern — are a common feature."
-idradenitis suppurativa,"painful pea-sized lumps. the condition usually starts with a single, painful lump under the skin that persists for weeks or months. later more bumps form. they usually appear in areas with hair follicles with many oil and sweat glands, such as the armpits, groin and anal area. they also occur where skin rubs together, such as the inner thighs, breast and buttocks."
-idradenitis suppurativa,"tunnels. over time, tracts connecting the lumps may form under the skin. these wounds heal very slowly, if at all, and can leak pus, which may have an odor."
+hidradenitis suppurativa,"blackheads. small pitted areas of skin containing blackheads — often appearing in pairs or a ""double-barreled"" pattern — are a common feature."
+hidradenitis suppurativa,"painful pea-sized lumps. the condition usually starts with a single, painful lump under the skin that persists for weeks or months. later more bumps form. they usually appear in areas with hair follicles with many oil and sweat glands, such as the armpits, groin and anal area. they also occur where skin rubs together, such as the inner thighs, breast and buttocks."
+hidradenitis suppurativa,"tunnels. over time, tracts connecting the lumps may form under the skin. these wounds heal very slowly, if at all, and can leak pus, which may have an odor."
 autonomic neuropathy,"dizziness and fainting when standing, caused by a sudden drop in blood pressure."
 autonomic neuropathy,"urinary problems, such as difficulty starting urination, incontinence, difficulty sensing a full bladder and inability to completely empty the bladder, which can lead to urinary tract infections."
 autonomic neuropathy,"sexual difficulties, including problems achieving or maintaining an erection (erectile dysfunction) or ejaculation problems in men. in women, problems include vaginal dryness, low libido and difficulty reaching orgasm."
@@ -409,14 +412,14 @@ tonsillitis,headache
 tonsillitis,drooling due to difficult or painful swallowing
 tonsillitis,refusal to eat
 tonsillitis,unusual fussiness
-epatitis b,abdominal pain
-epatitis b,dark urine
-epatitis b,fever
-epatitis b,joint pain
-epatitis b,loss of appetite
-epatitis b,nausea and vomiting
-epatitis b,weakness and fatigue
-epatitis b,yellowing of your skin and the whites of your eyes (jaundice)
+hepatitis b,abdominal pain
+hepatitis b,dark urine
+hepatitis b,fever
+hepatitis b,joint pain
+hepatitis b,loss of appetite
+hepatitis b,nausea and vomiting
+hepatitis b,weakness and fatigue
+hepatitis b,yellowing of your skin and the whites of your eyes (jaundice)
 listeria infection,fever
 listeria infection,chills
 listeria infection,muscle aches
@@ -427,13 +430,13 @@ listeria infection,stiff neck
 listeria infection,confusion or changes in alertness
 listeria infection,loss of balance
 listeria infection,convulsions
-chronic coug,a runny or stuffy nose
-chronic coug,a feeling of liquid running down the back of your throat (postnasal drip)
-chronic coug,frequent throat clearing and sore throat
-chronic coug,hoarseness
-chronic coug,wheezing and shortness of breath
-chronic coug,heartburn or a sour taste in your mouth
-chronic coug,"in rare cases, coughing up blood"
+chronic cough,a runny or stuffy nose
+chronic cough,a feeling of liquid running down the back of your throat (postnasal drip)
+chronic cough,frequent throat clearing and sore throat
+chronic cough,hoarseness
+chronic cough,wheezing and shortness of breath
+chronic cough,heartburn or a sour taste in your mouth
+chronic cough,"in rare cases, coughing up blood"
 sinus headaches,"pain, pressure and fullness in your cheeks, brow or forehead"
 sinus headaches,worsening pain if you bend forward or lie down
 sinus headaches,stuffy nose
@@ -444,17 +447,17 @@ seizures,a staring spell
 seizures,uncontrollable jerking movements of the arms and legs
 seizures,loss of consciousness or awareness
 seizures,"cognitive or emotional symptoms, such as fear, anxiety or deja vu"
-n1 flu (swine flu),"fever, but not always"
-n1 flu (swine flu),chills
-n1 flu (swine flu),cough
-n1 flu (swine flu),sore throat
-n1 flu (swine flu),runny or stuffy nose
-n1 flu (swine flu),"watery, red eyes"
-n1 flu (swine flu),body aches
-n1 flu (swine flu),headache
-n1 flu (swine flu),fatigue
-n1 flu (swine flu),diarrhea
-n1 flu (swine flu),nausea and vomiting
+h1n1 flu (swine flu),"fever, but not always"
+h1n1 flu (swine flu),chills
+h1n1 flu (swine flu),cough
+h1n1 flu (swine flu),sore throat
+h1n1 flu (swine flu),runny or stuffy nose
+h1n1 flu (swine flu),"watery, red eyes"
+h1n1 flu (swine flu),body aches
+h1n1 flu (swine flu),headache
+h1n1 flu (swine flu),fatigue
+h1n1 flu (swine flu),diarrhea
+h1n1 flu (swine flu),nausea and vomiting
 multisystem inflammatory syndrome in children (mis-c) and covid-19,fever that lasts 24 hours or longer
 multisystem inflammatory syndrome in children (mis-c) and covid-19,vomiting
 multisystem inflammatory syndrome in children (mis-c) and covid-19,diarrhea
@@ -504,6 +507,8 @@ occupational asthma,"get worse as the workweek progresses, go away during weeken
 occupational asthma,occur both at work and away from work.
 occupational asthma,start as soon as you're exposed to an asthma-inducing substance at work or only after a period of regular exposure to the substance.
 occupational asthma,"continue after exposure is stopped. the longer you're exposed to the asthma-causing substance, the more likely you'll have long-lasting or permanent asthma symptoms."
+dislocated elbow,extreme pain
+dislocated elbow,obvious distortion of the joint
 diabetic nephropathy,worsening blood pressure control
 diabetic nephropathy,protein in the urine
 diabetic nephropathy,"swelling of feet, ankles, hands or eyes"
@@ -521,6 +526,10 @@ lazy eye (amblyopia),poor depth perception
 lazy eye (amblyopia),squinting or shutting an eye
 lazy eye (amblyopia),head tilting
 lazy eye (amblyopia),abnormal results of vision screening tests
+bedbugs,"red, often with a darker red spot in the middle"
+bedbugs,itchy
+bedbugs,arranged in a rough line or in a cluster
+bedbugs,"located on the face, neck, arms and hands"
 influenza (flu),fever
 influenza (flu),aching muscles
 influenza (flu),chills and sweats
@@ -824,17 +833,17 @@ dystonia,"eyelids. rapid blinking or involuntary spasms cause your eyes to close
 dystonia,"jaw or tongue (oromandibular dystonia). you might experience slurred speech, drooling, and difficulty chewing or swallowing. oromandibular dystonia can be painful and often occurs in combination with cervical dystonia or blepharospasms."
 dystonia,voice box and vocal cords (spasmodic dystonia). you might have a tight or whispering voice.
 dystonia,"hand and forearm. some types of dystonia occur only while you do a repetitive activity, such as writing (writer's dystonia) or playing a specific musical instrument (musician's dystonia)."
-angovers,fatigue and weakness
-angovers,excessive thirst and dry mouth
-angovers,headaches and muscle aches
-angovers,"nausea, vomiting or stomach pain"
-angovers,poor or decreased sleep
-angovers,increased sensitivity to light and sound
-angovers,dizziness or a sense of the room spinning
-angovers,shakiness
-angovers,decreased ability to concentrate
-angovers,"mood disturbances, such as depression, anxiety and irritability"
-angovers,rapid heartbeat
+hangovers,fatigue and weakness
+hangovers,excessive thirst and dry mouth
+hangovers,headaches and muscle aches
+hangovers,"nausea, vomiting or stomach pain"
+hangovers,poor or decreased sleep
+hangovers,increased sensitivity to light and sound
+hangovers,dizziness or a sense of the room spinning
+hangovers,shakiness
+hangovers,decreased ability to concentrate
+hangovers,"mood disturbances, such as depression, anxiety and irritability"
+hangovers,rapid heartbeat
 placental abruption,"vaginal bleeding, although there might not be any"
 placental abruption,abdominal pain
 placental abruption,back pain
@@ -1023,6 +1032,11 @@ brain tumor,confusion in everyday matters
 brain tumor,personality or behavior changes
 brain tumor,"seizures, especially in someone who doesn't have a history of seizures"
 brain tumor,hearing problems
+osteochondritis dissecans,"pain. this most common symptom of osteochondritis dissecans might be triggered by physical activity — walking up stairs, climbing a hill or playing sports."
+osteochondritis dissecans,swelling and tenderness. the skin around your joint might be swollen and tender.
+osteochondritis dissecans,joint popping or locking. your joint might pop or stick in one position if a loose fragment gets caught between bones during movement.
+osteochondritis dissecans,"joint weakness. you might feel as though your joint is ""giving way"" or weakening."
+osteochondritis dissecans,decreased range of motion. you might be unable to straighten the affected limb completely.
 deviated septum,obstruction of one or both nostrils. this blockage (obstruction) can make it difficult to breathe through the nostril or nostrils. you may notice this more when you have a cold (upper respiratory tract infection) or allergies that can cause your nasal passages to swell and narrow.
 deviated septum,"nosebleeds. the surface of your nasal septum may become dry, increasing your risk of nosebleeds."
 deviated septum,facial pain. there is some debate about the possible nasal causes of facial pain. a possible cause of one-sided facial pain could be a severe deviated septum in which surfaces within the nose touch and cause pressure.
@@ -1087,6 +1101,18 @@ yeast infection (vaginal),vaginal pain and soreness
 yeast infection (vaginal),vaginal rash
 yeast infection (vaginal),"thick, white, odor-free vaginal discharge with a cottage cheese appearance"
 yeast infection (vaginal),watery vaginal discharge
+ocular rosacea,"red, burning, itchy or watering eyes"
+ocular rosacea,dry eyes
+ocular rosacea,grittiness or the feeling of having a foreign body in the eye or eyes
+ocular rosacea,blurred vision
+ocular rosacea,sensitivity to light (photophobia)
+ocular rosacea,dilated small blood vessels on the white part of the eye that are visible when you look in a mirror
+ocular rosacea,"red, swollen eyelids"
+ocular rosacea,"recurrent eye or eyelid infections, such as pink eye (conjunctivitis), blepharitis, sties or chalazia"
+bacterial vaginosis,"thin, gray, white or green vaginal discharge"
+bacterial vaginosis,"foul-smelling ""fishy"" vaginal odor"
+bacterial vaginosis,vaginal itching
+bacterial vaginosis,burning during urination
 varicose veins,veins that are dark purple or blue in color
 varicose veins,veins that appear twisted and bulging; they are often like cords on your legs
 varicose veins,an achy or heavy feeling in your legs
@@ -1167,11 +1193,11 @@ blocked tear duct,painful swelling near the inside corner of the eye
 blocked tear duct,crusting of the eyelids
 blocked tear duct,mucus or pus discharge from the lids and surface of the eye
 blocked tear duct,blurred vision
-air loss,"gradual thinning on top of head. this is the most common type of hair loss, affecting people as they age. in men, hair often begins to recede at the hairline on the forehead. women typically have a broadening of the part in their hair. an increasingly common hair loss pattern in older women is a receding hairline (frontal fibrosing alopecia)."
-air loss,"circular or patchy bald spots. some people lose hair in circular or patchy bald spots on the scalp, beard or eyebrows. your skin may become itchy or painful before the hair falls out."
-air loss,sudden loosening of hair. a physical or emotional shock can cause hair to loosen. handfuls of hair may come out when combing or washing your hair or even after gentle tugging. this type of hair loss usually causes overall hair thinning but is temporary.
-air loss,"full-body hair loss. some conditions and medical treatments, such as chemotherapy for cancer, can result in the loss of hair all over your body. the hair usually grows back."
-air loss,"patches of scaling that spread over the scalp. this is a sign of ringworm. it may be accompanied by broken hair, redness, swelling and, at times, oozing."
+hair loss,"gradual thinning on top of head. this is the most common type of hair loss, affecting people as they age. in men, hair often begins to recede at the hairline on the forehead. women typically have a broadening of the part in their hair. an increasingly common hair loss pattern in older women is a receding hairline (frontal fibrosing alopecia)."
+hair loss,"circular or patchy bald spots. some people lose hair in circular or patchy bald spots on the scalp, beard or eyebrows. your skin may become itchy or painful before the hair falls out."
+hair loss,sudden loosening of hair. a physical or emotional shock can cause hair to loosen. handfuls of hair may come out when combing or washing your hair or even after gentle tugging. this type of hair loss usually causes overall hair thinning but is temporary.
+hair loss,"full-body hair loss. some conditions and medical treatments, such as chemotherapy for cancer, can result in the loss of hair all over your body. the hair usually grows back."
+hair loss,"patches of scaling that spread over the scalp. this is a sign of ringworm. it may be accompanied by broken hair, redness, swelling and, at times, oozing."
 iron deficiency anemia,extreme fatigue
 iron deficiency anemia,weakness
 iron deficiency anemia,pale skin
@@ -1275,18 +1301,18 @@ malaria,chest or abdominal pain
 malaria,cough
 ductal carcinoma in situ (dcis),a breast lump
 ductal carcinoma in situ (dcis),bloody nipple discharge
-epatitis c,bleeding easily
-epatitis c,bruising easily
-epatitis c,fatigue
-epatitis c,poor appetite
-epatitis c,yellow discoloration of the skin and eyes (jaundice)
-epatitis c,dark-colored urine
-epatitis c,itchy skin
-epatitis c,fluid buildup in your abdomen (ascites)
-epatitis c,swelling in your legs
-epatitis c,weight loss
-epatitis c,"confusion, drowsiness and slurred speech (hepatic encephalopathy)"
-epatitis c,spiderlike blood vessels on your skin (spider angiomas)
+hepatitis c,bleeding easily
+hepatitis c,bruising easily
+hepatitis c,fatigue
+hepatitis c,poor appetite
+hepatitis c,yellow discoloration of the skin and eyes (jaundice)
+hepatitis c,dark-colored urine
+hepatitis c,itchy skin
+hepatitis c,fluid buildup in your abdomen (ascites)
+hepatitis c,swelling in your legs
+hepatitis c,weight loss
+hepatitis c,"confusion, drowsiness and slurred speech (hepatic encephalopathy)"
+hepatitis c,spiderlike blood vessels on your skin (spider angiomas)
 rosacea,facial redness. rosacea usually causes a persistent redness in the central part of your face. small blood vessels on your nose and cheeks often swell and become visible.
 rosacea,"swollen, red bumps. many people with rosacea also develop pimples on their face that resemble acne. these bumps sometimes contain pus. your skin may feel hot and tender."
 rosacea,"eye problems. many people with rosacea also experience dry, irritated, swollen eyes and red, swollen eyelids. this is known as ocular rosacea. in some people, the eye symptoms precede the skin symptoms."
@@ -1319,6 +1345,12 @@ cirrhosis,redness in the palms of the hands
 cirrhosis,"for women, absent or loss of periods not related to menopause"
 cirrhosis,"for men, loss of sex drive, breast enlargement (gynecomastia) or testicular atrophy"
 cirrhosis,"confusion, drowsiness and slurred speech (hepatic encephalopathy)"
+mold allergy,sneezing
+mold allergy,runny or stuffy nose
+mold allergy,cough and postnasal drip
+mold allergy,"itchy eyes, nose and throat"
+mold allergy,watery eyes
+mold allergy,"dry, scaly skin"
 croup,"loud barking cough that's further aggravated by crying and coughing, as well as anxiety and agitation, setting up a cycle of worsening signs and symptoms"
 croup,fever
 croup,hoarse voice
@@ -1402,12 +1434,11 @@ ventricular septal defect (vsd),shortness of breath when you exert yourself or w
 ventricular septal defect (vsd),rapid or irregular heartbeat
 ventricular septal defect (vsd),fatigue or weakness
 creutzfeldt-jakob disease,personality changes
-creutzfeldt-jakob disease,anxiety
-creutzfeldt-jakob disease,depression
 creutzfeldt-jakob disease,memory loss
 creutzfeldt-jakob disease,impaired thinking
 creutzfeldt-jakob disease,blurred vision or blindness
 creutzfeldt-jakob disease,insomnia
+creutzfeldt-jakob disease,incoordination
 creutzfeldt-jakob disease,difficulty speaking
 creutzfeldt-jakob disease,difficulty swallowing
 creutzfeldt-jakob disease,"sudden, jerky movements"
@@ -1420,17 +1451,17 @@ insomnia,"irritability, depression or anxiety"
 insomnia,"difficulty paying attention, focusing on tasks or remembering"
 insomnia,increased errors or accidents
 insomnia,ongoing worries about sleep
-emochromatosis,joint pain
-emochromatosis,abdominal pain
-emochromatosis,fatigue
-emochromatosis,weakness
-emochromatosis,diabetes
-emochromatosis,loss of sex drive
-emochromatosis,impotence
-emochromatosis,heart failure
-emochromatosis,liver failure
-emochromatosis,bronze or gray skin color
-emochromatosis,memory fog
+hemochromatosis,joint pain
+hemochromatosis,abdominal pain
+hemochromatosis,fatigue
+hemochromatosis,weakness
+hemochromatosis,diabetes
+hemochromatosis,loss of sex drive
+hemochromatosis,impotence
+hemochromatosis,heart failure
+hemochromatosis,liver failure
+hemochromatosis,bronze or gray skin color
+hemochromatosis,memory fog
 bags under eyes,mild swelling
 bags under eyes,saggy or loose skin
 bags under eyes,dark circles
@@ -1575,6 +1606,10 @@ inguinal hernia,"pain or discomfort in your groin, especially when bending over,
 inguinal hernia,a heavy or dragging sensation in your groin
 inguinal hernia,weakness or pressure in your groin
 inguinal hernia,"occasionally, pain and swelling around the testicles when the protruding intestine descends into the scrotum"
+lynch syndrome,"colon cancer that occurs at a younger age, especially before age 50"
+lynch syndrome,a family history of colon cancer that occurs at a young age
+lynch syndrome,a family history of cancer that affects the uterus (endometrial cancer)
+lynch syndrome,"a family history of other related cancers, including ovarian cancer, kidney cancer, stomach cancer, small intestine cancer, liver cancer, sweat gland cancer (sebaceous carcinoma) and other cancers"
 stuttering,"difficulty starting a word, phrase or sentence"
 stuttering,prolonging a word or sounds within a word
 stuttering,"repetition of a sound, syllable or word"
@@ -1606,14 +1641,14 @@ sprained ankle,bruising
 sprained ankle,restricted range of motion
 sprained ankle,instability in the ankle
 sprained ankle,popping sensation or sound at the time of injury
-ay fever,runny nose and nasal congestion
-ay fever,"watery, itchy, red eyes (allergic conjunctivitis)"
-ay fever,sneezing
-ay fever,cough
-ay fever,"itchy nose, roof of mouth or throat"
-ay fever,"swollen, blue-colored skin under the eyes (allergic shiners)"
-ay fever,postnasal drip
-ay fever,fatigue
+hay fever,runny nose and nasal congestion
+hay fever,"watery, itchy, red eyes (allergic conjunctivitis)"
+hay fever,sneezing
+hay fever,cough
+hay fever,"itchy nose, roof of mouth or throat"
+hay fever,"swollen, blue-colored skin under the eyes (allergic shiners)"
+hay fever,postnasal drip
+hay fever,fatigue
 shingles,"pain, burning, numbness or tingling"
 shingles,sensitivity to touch
 shingles,a red rash that begins a few days after the pain
@@ -1745,6 +1780,11 @@ pulmonary embolism,excessive sweating
 pulmonary embolism,fever
 pulmonary embolism,"leg pain or swelling, or both, usually in the calf caused by a deep vein thrombosis"
 pulmonary embolism,clammy or discolored skin (cyanosis)
+small bowel prolapse (enterocele),a pulling sensation in your pelvis that eases when you lie down
+small bowel prolapse (enterocele),"a feeling of pelvic fullness, pressure or pain"
+small bowel prolapse (enterocele),low back pain that eases when you lie down
+small bowel prolapse (enterocele),a soft bulge of tissue in your vagina
+small bowel prolapse (enterocele),vaginal discomfort and painful intercourse (dyspareunia)
 amniotic fluid embolism,sudden shortness of breath
 amniotic fluid embolism,excess fluid in the lungs (pulmonary edema)
 amniotic fluid embolism,sudden low blood pressure
@@ -1757,14 +1797,14 @@ amniotic fluid embolism,rapid heart rate or disturbances in the rhythm of the he
 amniotic fluid embolism,"fetal distress, such as a slow heart rate, or other fetal heart rate abnormalities"
 amniotic fluid embolism,seizures
 amniotic fluid embolism,loss of consciousness
-diaper ras,"skin signs. diaper rash is marked by red, tender-looking skin in the diaper region — buttocks, thighs and genitals."
-diaper ras,"changes in your baby's disposition. you may notice your baby seems more uncomfortable than usual, especially during diaper changes. a baby with a diaper rash often fusses or cries when the diaper area is washed or touched."
-ip fracture,inability to get up from a fall or to walk
-ip fracture,severe pain in your hip or groin
-ip fracture,inability to put weight on your leg on the side of your injured hip
-ip fracture,bruising and swelling in and around your hip area
-ip fracture,shorter leg on the side of your injured hip
-ip fracture,outward turning of your leg on the side of your injured hip
+diaper rash,"skin signs. diaper rash is marked by red, tender-looking skin in the diaper region — buttocks, thighs and genitals."
+diaper rash,"changes in your baby's disposition. you may notice your baby seems more uncomfortable than usual, especially during diaper changes. a baby with a diaper rash often fusses or cries when the diaper area is washed or touched."
+hip fracture,inability to get up from a fall or to walk
+hip fracture,severe pain in your hip or groin
+hip fracture,inability to put weight on your leg on the side of your injured hip
+hip fracture,bruising and swelling in and around your hip area
+hip fracture,shorter leg on the side of your injured hip
+hip fracture,outward turning of your leg on the side of your injured hip
 diabetes insipidus,extreme thirst
 diabetes insipidus,producing large amounts of diluted urine
 diabetes insipidus,frequent need to get up to urinate during the night
@@ -1795,21 +1835,21 @@ febrile seizure,lose consciousness
 febrile seizure,shake or jerk arms and legs
 febrile seizure,simple febrile seizures. this most common type lasts from a few seconds to 15 minutes. simple febrile seizures do not recur within a 24-hour period and are not specific to one part of the body.
 febrile seizure,"complex febrile seizures. this type lasts longer than 15 minutes, occurs more than once within 24 hours or is confined to one side of your child's body."
-oarding disorder,excessively acquiring items that are not needed or for which there's no space
-oarding disorder,"persistent difficulty throwing out or parting with your things, regardless of actual value"
-oarding disorder,"feeling a need to save these items, and being upset by the thought of discarding them"
-oarding disorder,building up of clutter to the point where rooms become unusable
-oarding disorder,"having a tendency toward indecisiveness, perfectionism, avoidance, procrastination, and problems with planning and organizing"
-oarding disorder,"disorganized piles or stacks of items, such as newspapers, clothes, paperwork, books or sentimental items"
-oarding disorder,"possessions that crowd and clutter your walking spaces and living areas and make the space unusable for the intended purpose, such as not being able to cook in the kitchen or use the bathroom to bathe"
-oarding disorder,"buildup of food or trash to unusually excessive, unsanitary levels"
-oarding disorder,significant distress or problems functioning or keeping yourself and others safe in your home
-oarding disorder,conflict with others who try to reduce or remove clutter from your home
-oarding disorder,"difficulty organizing items, sometimes losing important items in the clutter"
-oarding disorder,they believe these items are unique or will be needed at some point in the future
-oarding disorder,the items have important emotional significance — serving as a reminder of happier times or representing beloved people or pets
-oarding disorder,they feel safer when surrounded by the things they save
-oarding disorder,they don't want to waste anything
+hoarding disorder,excessively acquiring items that are not needed or for which there's no space
+hoarding disorder,"persistent difficulty throwing out or parting with your things, regardless of actual value"
+hoarding disorder,"feeling a need to save these items, and being upset by the thought of discarding them"
+hoarding disorder,building up of clutter to the point where rooms become unusable
+hoarding disorder,"having a tendency toward indecisiveness, perfectionism, avoidance, procrastination, and problems with planning and organizing"
+hoarding disorder,"disorganized piles or stacks of items, such as newspapers, clothes, paperwork, books or sentimental items"
+hoarding disorder,"possessions that crowd and clutter your walking spaces and living areas and make the space unusable for the intended purpose, such as not being able to cook in the kitchen or use the bathroom to bathe"
+hoarding disorder,"buildup of food or trash to unusually excessive, unsanitary levels"
+hoarding disorder,significant distress or problems functioning or keeping yourself and others safe in your home
+hoarding disorder,conflict with others who try to reduce or remove clutter from your home
+hoarding disorder,"difficulty organizing items, sometimes losing important items in the clutter"
+hoarding disorder,they believe these items are unique or will be needed at some point in the future
+hoarding disorder,the items have important emotional significance — serving as a reminder of happier times or representing beloved people or pets
+hoarding disorder,they feel safer when surrounded by the things they save
+hoarding disorder,they don't want to waste anything
 infectious diseases,fever
 infectious diseases,diarrhea
 infectious diseases,fatigue
@@ -1963,13 +2003,13 @@ esophageal varices,loss of consciousness in severe cases
 esophageal varices,yellow coloration of your skin and eyes (jaundice)
 esophageal varices,easy bleeding or bruising
 esophageal varices,fluid buildup in your abdomen (ascites)
-elicobacter pylori (h. pylori) infection,an ache or burning pain in your abdomen
-elicobacter pylori (h. pylori) infection,abdominal pain that's worse when your stomach is empty
-elicobacter pylori (h. pylori) infection,nausea
-elicobacter pylori (h. pylori) infection,loss of appetite
-elicobacter pylori (h. pylori) infection,frequent burping
-elicobacter pylori (h. pylori) infection,bloating
-elicobacter pylori (h. pylori) infection,unintentional weight loss
+helicobacter pylori (h. pylori) infection,an ache or burning pain in your abdomen
+helicobacter pylori (h. pylori) infection,abdominal pain that's worse when your stomach is empty
+helicobacter pylori (h. pylori) infection,nausea
+helicobacter pylori (h. pylori) infection,loss of appetite
+helicobacter pylori (h. pylori) infection,frequent burping
+helicobacter pylori (h. pylori) infection,bloating
+helicobacter pylori (h. pylori) infection,unintentional weight loss
 tricuspid valve regurgitation,fatigue
 tricuspid valve regurgitation,declining exercise capacity
 tricuspid valve regurgitation,"swelling in your abdomen, legs or veins in your neck"
@@ -2021,6 +2061,9 @@ stomach polyps,pain or tenderness when you press your abdomen
 stomach polyps,nausea
 stomach polyps,blood in your stool
 stomach polyps,anemia
+lip cancer,a flat or slightly raised whitish discoloration of the lip
+lip cancer,a sore on your lip that won't heal
+lip cancer,"tingling, pain or numbness of the lips or the skin around the mouth"
 urinary tract infection (uti),"a strong, persistent urge to urinate"
 urinary tract infection (uti),a burning sensation when urinating
 urinary tract infection (uti),"passing frequent, small amounts of urine"
@@ -2072,15 +2115,15 @@ mosquito bites,a large area of swelling and redness
 mosquito bites,low-grade fever
 mosquito bites,hives
 mosquito bites,swollen lymph nodes
-whooping coug,runny nose
-whooping coug,nasal congestion
-whooping coug,"red, watery eyes"
-whooping coug,fever
-whooping coug,cough
-whooping coug,provoke vomiting
-whooping coug,result in a red or blue face
-whooping coug,cause extreme fatigue
-whooping coug,"end with a high-pitched ""whoop"" sound during the next breath of air"
+whooping cough,runny nose
+whooping cough,nasal congestion
+whooping cough,"red, watery eyes"
+whooping cough,fever
+whooping cough,cough
+whooping cough,provoke vomiting
+whooping cough,result in a red or blue face
+whooping cough,cause extreme fatigue
+whooping cough,"end with a high-pitched ""whoop"" sound during the next breath of air"
 osteoarthritis,pain. affected joints might hurt during or after movement.
 osteoarthritis,stiffness. joint stiffness might be most noticeable upon awakening or after being inactive.
 osteoarthritis,tenderness. your joint might feel tender when you apply light pressure to or near it.
@@ -2235,21 +2278,21 @@ anal cancer,bleeding from the anus or rectum
 anal cancer,pain in the area of the anus
 anal cancer,a mass or growth in the anal canal
 anal cancer,anal itching
-ashimoto's disease,fatigue and sluggishness
-ashimoto's disease,increased sensitivity to cold
-ashimoto's disease,constipation
-ashimoto's disease,"pale, dry skin"
-ashimoto's disease,a puffy face
-ashimoto's disease,brittle nails
-ashimoto's disease,hair loss
-ashimoto's disease,enlargement of the tongue
-ashimoto's disease,unexplained weight gain
-ashimoto's disease,"muscle aches, tenderness and stiffness"
-ashimoto's disease,joint pain and stiffness
-ashimoto's disease,muscle weakness
-ashimoto's disease,excessive or prolonged menstrual bleeding
-ashimoto's disease,depression
-ashimoto's disease,memory lapses
+hashimoto's disease,fatigue and sluggishness
+hashimoto's disease,increased sensitivity to cold
+hashimoto's disease,constipation
+hashimoto's disease,"pale, dry skin"
+hashimoto's disease,a puffy face
+hashimoto's disease,brittle nails
+hashimoto's disease,hair loss
+hashimoto's disease,enlargement of the tongue
+hashimoto's disease,unexplained weight gain
+hashimoto's disease,"muscle aches, tenderness and stiffness"
+hashimoto's disease,joint pain and stiffness
+hashimoto's disease,muscle weakness
+hashimoto's disease,excessive or prolonged menstrual bleeding
+hashimoto's disease,depression
+hashimoto's disease,memory lapses
 grand mal seizure,"tonic phase. loss of consciousness occurs, and the muscles suddenly contract and cause the person to fall down. this phase tends to last about 10 to 20 seconds."
 grand mal seizure,"clonic phase. the muscles go into rhythmic contractions, alternately flexing and relaxing. convulsions usually last one to two minutes or less."
 grand mal seizure,a scream. some people may cry out at the beginning of a seizure.
@@ -2432,14 +2475,14 @@ sore throat,sneezing
 sore throat,body aches
 sore throat,headache
 sore throat,nausea or vomiting
-eatstroke,"high body temperature. a core body temperature of 104 f (40 c) or higher, obtained with a rectal thermometer, is the main sign of heatstroke."
-eatstroke,"altered mental state or behavior. confusion, agitation, slurred speech, irritability, delirium, seizures and coma can all result from heatstroke."
-eatstroke,"alteration in sweating. in heatstroke brought on by hot weather, your skin will feel hot and dry to the touch. however, in heatstroke brought on by strenuous exercise, your skin may feel dry or slightly moist."
-eatstroke,nausea and vomiting. you may feel sick to your stomach or vomit.
-eatstroke,flushed skin. your skin may turn red as your body temperature increases.
-eatstroke,rapid breathing. your breathing may become rapid and shallow.
-eatstroke,racing heart rate. your pulse may significantly increase because heat stress places a tremendous burden on your heart to help cool your body.
-eatstroke,headache. your head may throb.
+heatstroke,"high body temperature. a core body temperature of 104 f (40 c) or higher, obtained with a rectal thermometer, is the main sign of heatstroke."
+heatstroke,"altered mental state or behavior. confusion, agitation, slurred speech, irritability, delirium, seizures and coma can all result from heatstroke."
+heatstroke,"alteration in sweating. in heatstroke brought on by hot weather, your skin will feel hot and dry to the touch. however, in heatstroke brought on by strenuous exercise, your skin may feel dry or slightly moist."
+heatstroke,nausea and vomiting. you may feel sick to your stomach or vomit.
+heatstroke,flushed skin. your skin may turn red as your body temperature increases.
+heatstroke,rapid breathing. your breathing may become rapid and shallow.
+heatstroke,racing heart rate. your pulse may significantly increase because heat stress places a tremendous burden on your heart to help cool your body.
+heatstroke,headache. your head may throb.
 trichomoniasis,"an often foul-smelling vaginal discharge — which might be white, gray, yellow or green"
 trichomoniasis,"genital redness, burning and itching"
 trichomoniasis,pain with urination or sexual intercourse
@@ -2550,11 +2593,11 @@ pancreatic neuroendocrine tumors,low blood sugar
 cholera,"diarrhea. cholera-related diarrhea comes on suddenly and can quickly cause dangerous fluid loss — as much as a quart (about 1 liter) an hour. diarrhea due to cholera often has a pale, milky appearance that resembles water in which rice has been rinsed."
 cholera,nausea and vomiting. vomiting occurs especially in the early stages of cholera and can last for hours.
 cholera,dehydration. dehydration can develop within hours after cholera symptoms start and range from mild to severe. a loss of 10% or more of body weight indicates severe dehydration.
-poison ivy ras,redness
-poison ivy ras,itching
-poison ivy ras,swelling
-poison ivy ras,blisters
-poison ivy ras,"difficulty breathing, if you've inhaled the smoke from burning poison ivy"
+poison ivy rash,redness
+poison ivy rash,itching
+poison ivy rash,swelling
+poison ivy rash,blisters
+poison ivy rash,"difficulty breathing, if you've inhaled the smoke from burning poison ivy"
 primary biliary cholangitis,fatigue
 primary biliary cholangitis,itchy skin
 primary biliary cholangitis,dry eyes and mouth
@@ -2642,18 +2685,18 @@ cold sore,sore throat
 cold sore,headache
 cold sore,muscle aches
 cold sore,swollen lymph nodes
-oral thrus,"creamy white lesions on your tongue, inner cheeks, and sometimes on the roof of your mouth, gums and tonsils"
-oral thrus,slightly raised lesions with a cottage cheese-like appearance
-oral thrus,"redness, burning or soreness that may be severe enough to cause difficulty eating or swallowing"
-oral thrus,slight bleeding if the lesions are rubbed or scraped
-oral thrus,cracking and redness at the corners of your mouth
-oral thrus,a cottony feeling in your mouth
-oral thrus,loss of taste
-oral thrus,"redness, irritation and pain under dentures (denture stomatitis)"
-oral thrus,"unusually red, sensitive, cracked or itchy nipples"
-oral thrus,"shiny or flaky skin on the darker, circular area around the nipple (areola)"
-oral thrus,unusual pain during nursing or painful nipples between feedings
-oral thrus,stabbing pains deep within the breast
+oral thrush,"creamy white lesions on your tongue, inner cheeks, and sometimes on the roof of your mouth, gums and tonsils"
+oral thrush,slightly raised lesions with a cottage cheese-like appearance
+oral thrush,"redness, burning or soreness that may be severe enough to cause difficulty eating or swallowing"
+oral thrush,slight bleeding if the lesions are rubbed or scraped
+oral thrush,cracking and redness at the corners of your mouth
+oral thrush,a cottony feeling in your mouth
+oral thrush,loss of taste
+oral thrush,"redness, irritation and pain under dentures (denture stomatitis)"
+oral thrush,"unusually red, sensitive, cracked or itchy nipples"
+oral thrush,"shiny or flaky skin on the darker, circular area around the nipple (areola)"
+oral thrush,unusual pain during nursing or painful nipples between feedings
+oral thrush,stabbing pains deep within the breast
 dermatographia,raised red lines
 dermatographia,swelling
 dermatographia,inflammation
@@ -2690,6 +2733,14 @@ truncus arteriosus,excessive sleepiness
 truncus arteriosus,poor growth
 truncus arteriosus,shortness of breath
 truncus arteriosus,rapid breathing
+carcinoma of unknown primary,a lump that can be felt through the skin
+carcinoma of unknown primary,pain
+carcinoma of unknown primary,"changes in bowel habits, such as new and persistent constipation or diarrhea"
+carcinoma of unknown primary,frequent urination
+carcinoma of unknown primary,cough
+carcinoma of unknown primary,fever
+carcinoma of unknown primary,night sweats
+carcinoma of unknown primary,losing weight without trying
 patent ductus arteriosus (pda),"poor eating, which leads to poor growth"
 patent ductus arteriosus (pda),sweating with crying or eating
 patent ductus arteriosus (pda),persistent fast breathing or breathlessness
@@ -2746,9 +2797,9 @@ moyamoya disease,visual disturbances
 moyamoya disease,difficulties with speaking or understanding others (aphasia)
 moyamoya disease,developmental delays
 moyamoya disease,involuntary movements
-ip labral tear,"pain in your hip or groin, often made worse by long periods of standing, sitting or walking"
-ip labral tear,"a locking, clicking or catching sensation in your hip joint"
-ip labral tear,stiffness or limited range of motion in your hip joint
+hip labral tear,"pain in your hip or groin, often made worse by long periods of standing, sitting or walking"
+hip labral tear,"a locking, clicking or catching sensation in your hip joint"
+hip labral tear,stiffness or limited range of motion in your hip joint
 retractile testicle,the testicle may be moved by hand from the groin into the scrotum and won't immediately retreat to the groin.
 retractile testicle,the testicle might spontaneously appear in the scrotum and remain there for a time.
 retractile testicle,the testicle might spontaneously disappear again for a time.
@@ -2768,15 +2819,15 @@ pediatric thrombocytopenia,a sprinkling of small purplish spots on the skin (cal
 pediatric thrombocytopenia,nosebleeds
 pediatric thrombocytopenia,bleeding from the gums
 pediatric thrombocytopenia,prolonged bleeding from minor cuts
-irschsprung's disease,swollen belly
-irschsprung's disease,"vomiting, including vomiting a green or brown substance"
-irschsprung's disease,"constipation or gas, which might make a newborn fussy"
-irschsprung's disease,diarrhea
-irschsprung's disease,swollen belly
-irschsprung's disease,chronic constipation
-irschsprung's disease,gas
-irschsprung's disease,failure to thrive
-irschsprung's disease,fatigue
+hirschsprung's disease,swollen belly
+hirschsprung's disease,"vomiting, including vomiting a green or brown substance"
+hirschsprung's disease,"constipation or gas, which might make a newborn fussy"
+hirschsprung's disease,diarrhea
+hirschsprung's disease,swollen belly
+hirschsprung's disease,chronic constipation
+hirschsprung's disease,gas
+hirschsprung's disease,failure to thrive
+hirschsprung's disease,fatigue
 acoustic neuroma,"hearing loss, usually gradual — although in some cases sudden — and occurring on only one side or more pronounced on one side"
 acoustic neuroma,ringing (tinnitus) in the affected ear
 acoustic neuroma,"unsteadiness, loss of balance"
@@ -2833,16 +2884,16 @@ tetralogy of fallot,bluish discoloration of the skin
 tetralogy of fallot,passing out or seizures
 tetralogy of fallot,weakness
 tetralogy of fallot,unusual irritability
-epatitis a,fatigue
-epatitis a,sudden nausea and vomiting
-epatitis a,"abdominal pain or discomfort, especially on the upper right side beneath your lower ribs (by your liver)"
-epatitis a,clay-colored bowel movements
-epatitis a,loss of appetite
-epatitis a,low-grade fever
-epatitis a,dark urine
-epatitis a,joint pain
-epatitis a,yellowing of the skin and the whites of your eyes (jaundice)
-epatitis a,intense itching
+hepatitis a,fatigue
+hepatitis a,sudden nausea and vomiting
+hepatitis a,"abdominal pain or discomfort, especially on the upper right side beneath your lower ribs (by your liver)"
+hepatitis a,clay-colored bowel movements
+hepatitis a,loss of appetite
+hepatitis a,low-grade fever
+hepatitis a,dark urine
+hepatitis a,joint pain
+hepatitis a,yellowing of the skin and the whites of your eyes (jaundice)
+hepatitis a,intense itching
 immune thrombocytopenia (itp),easy or excessive bruising
 immune thrombocytopenia (itp),"superficial bleeding into the skin that appears as pinpoint-sized reddish-purple spots (petechiae) that look like a rash, usually on the lower legs"
 immune thrombocytopenia (itp),bleeding from the gums or nose
@@ -2852,10 +2903,10 @@ overactive bladder,feel a sudden urge to urinate that's difficult to control
 overactive bladder,experience unintentional loss of urine immediately after an urgent need to urinate (urgency incontinence)
 overactive bladder,"urinate frequently, usually eight or more times in 24 hours"
 overactive bladder,wake up more than two times in the night to urinate (nocturia)
-enoch-schonlein purpura,"rash (purpura). reddish-purple spots that look like bruises develop on the buttocks, legs and feet. the rash can also appear on the arms, face and trunk and may be worse in areas of pressure, such as the sock line and waistline."
-enoch-schonlein purpura,"swollen, sore joints (arthritis). people with henoch-schonlein purpura often have pain and swelling around the joints — mainly in the knees and ankles. joint pain sometimes precedes the classical rash by one or two weeks. these symptoms subside when the disease clears and leave no lasting damage."
-enoch-schonlein purpura,"digestive tract symptoms. many children with henoch-schonlein purpura develop belly pain, nausea, vomiting and bloody stools. these symptoms sometimes occur before the rash appears."
-enoch-schonlein purpura,"kidney involvement. henoch-schonlein purpura can also affect the kidneys. in most cases, this shows up as protein or blood in the urine, which you may not even know is there unless you have a urine test done. usually this goes away once the illness passes, but some people develop persistent kidney disease."
+henoch-schonlein purpura,"rash (purpura). reddish-purple spots that look like bruises develop on the buttocks, legs and feet. the rash can also appear on the arms, face and trunk and may be worse in areas of pressure, such as the sock line and waistline."
+henoch-schonlein purpura,"swollen, sore joints (arthritis). people with henoch-schonlein purpura often have pain and swelling around the joints — mainly in the knees and ankles. joint pain sometimes precedes the classical rash by one or two weeks. these symptoms subside when the disease clears and leave no lasting damage."
+henoch-schonlein purpura,"digestive tract symptoms. many children with henoch-schonlein purpura develop belly pain, nausea, vomiting and bloody stools. these symptoms sometimes occur before the rash appears."
+henoch-schonlein purpura,"kidney involvement. henoch-schonlein purpura can also affect the kidneys. in most cases, this shows up as protein or blood in the urine, which you may not even know is there unless you have a urine test done. usually this goes away once the illness passes, but some people develop persistent kidney disease."
 cardiogenic shock,rapid breathing
 cardiogenic shock,severe shortness of breath
 cardiogenic shock,"sudden, rapid heartbeat (tachycardia)"
@@ -2897,12 +2948,12 @@ male infertility,inability to smell
 male infertility,abnormal breast growth (gynecomastia)
 male infertility,decreased facial or body hair or other signs of a chromosomal or hormonal abnormality
 male infertility,a lower than normal sperm count (fewer than 15 million sperm per milliliter of semen or a total sperm count of less than 39 million per ejaculate)
-ot flashes,"a sudden feeling of warmth spreading through your chest, neck and face"
-ot flashes,"a flushed appearance with red, blotchy skin"
-ot flashes,rapid heartbeat
-ot flashes,"perspiration, mostly on your upper body"
-ot flashes,a chilled feeling as the hot flash lets up
-ot flashes,feelings of anxiety
+hot flashes,"a sudden feeling of warmth spreading through your chest, neck and face"
+hot flashes,"a flushed appearance with red, blotchy skin"
+hot flashes,rapid heartbeat
+hot flashes,"perspiration, mostly on your upper body"
+hot flashes,a chilled feeling as the hot flash lets up
+hot flashes,feelings of anxiety
 psoriasis,"red patches of skin covered with thick, silvery scales"
 psoriasis,small scaling spots (commonly seen in children)
 psoriasis,"dry, cracked skin that may bleed or itch"
@@ -3072,14 +3123,14 @@ seborrheic keratosis,"has a characteristic ""pasted on"" look"
 seborrheic keratosis,is flat or slightly raised with a scaly surface
 seborrheic keratosis,ranges in size from very small to more than 1 inch (2.5 centimeters) across
 seborrheic keratosis,may itch
-antavirus pulmonary syndrome,fever and chills
-antavirus pulmonary syndrome,headaches and muscle aches
-antavirus pulmonary syndrome,"vomiting, diarrhea or abdominal pain"
-antavirus pulmonary syndrome,a cough that produces secretions
-antavirus pulmonary syndrome,shortness of breath
-antavirus pulmonary syndrome,fluid accumulating within the lungs
-antavirus pulmonary syndrome,low blood pressure
-antavirus pulmonary syndrome,reduced heart efficiency
+hantavirus pulmonary syndrome,fever and chills
+hantavirus pulmonary syndrome,headaches and muscle aches
+hantavirus pulmonary syndrome,"vomiting, diarrhea or abdominal pain"
+hantavirus pulmonary syndrome,a cough that produces secretions
+hantavirus pulmonary syndrome,shortness of breath
+hantavirus pulmonary syndrome,fluid accumulating within the lungs
+hantavirus pulmonary syndrome,low blood pressure
+hantavirus pulmonary syndrome,reduced heart efficiency
 blastocystis hominis,watery diarrhea
 blastocystis hominis,nausea
 blastocystis hominis,abdominal pain
@@ -3108,6 +3159,12 @@ black hairy tongue,a hairy or furry appearance of the tongue
 black hairy tongue,altered taste or metallic taste in your mouth
 black hairy tongue,bad breath (halitosis)
 black hairy tongue,"gagging or tickling sensation, if the overgrowth of the papillae is excessive"
+median arcuate ligament syndrome (mals),"pain in the upper middle stomach area, which may go away when leaning forward"
+median arcuate ligament syndrome (mals),"stomach pain after eating, exercising or shifting body position"
+median arcuate ligament syndrome (mals),"fear of eating food due to pain, leading to significant weight loss — usually greater than 20 pounds (9.1 kilograms)"
+median arcuate ligament syndrome (mals),bloating
+median arcuate ligament syndrome (mals),nausea and vomiting
+median arcuate ligament syndrome (mals),diarrhea
 keratosis pilaris,"painless tiny bumps, typically on the upper arms, thighs, cheeks or buttocks"
 keratosis pilaris,"dry, rough skin in the areas with bumps"
 keratosis pilaris,worsening when seasonal changes cause low humidity and skin tends to be drier
@@ -3163,12 +3220,12 @@ agoraphobia,sudden flushing or chills
 agoraphobia,upset stomach or diarrhea
 agoraphobia,feeling a loss of control
 agoraphobia,fear of dying
-premature birt,"small size, with a disproportionately large head"
-premature birt,"sharper looking, less rounded features than a full-term baby's features, due to a lack of fat stores"
-premature birt,fine hair (lanugo) covering much of the body
-premature birt,"low body temperature, especially immediately after birth in the delivery room, due to a lack of stored body fat"
-premature birt,labored breathing or respiratory distress
-premature birt,"lack of reflexes for sucking and swallowing, leading to feeding difficulties"
+premature birth,"small size, with a disproportionately large head"
+premature birth,"sharper looking, less rounded features than a full-term baby's features, due to a lack of fat stores"
+premature birth,fine hair (lanugo) covering much of the body
+premature birth,"low body temperature, especially immediately after birth in the delivery room, due to a lack of stored body fat"
+premature birth,labored breathing or respiratory distress
+premature birth,"lack of reflexes for sucking and swallowing, leading to feeding difficulties"
 stomach cancer,difficulty swallowing
 stomach cancer,feeling bloated after eating
 stomach cancer,feeling full after eating small amounts of food
@@ -3405,6 +3462,12 @@ soft palate cancer,weight loss
 soft palate cancer,ear pain
 soft palate cancer,swelling in your neck that may hurt
 soft palate cancer,white patches in your mouth that won't go away
+undifferentiated pleomorphic sarcoma,growing lump or area of swelling
+undifferentiated pleomorphic sarcoma,"if it grows very large, there may be pain, tingling and numbness"
+undifferentiated pleomorphic sarcoma,"if it occurs in an arm or leg, there may be swelling in the hand or foot of an affected limb"
+undifferentiated pleomorphic sarcoma,"if it occurs in the abdomen, there may be pain, loss of appetite and constipation"
+undifferentiated pleomorphic sarcoma,fever
+undifferentiated pleomorphic sarcoma,weight loss
 bone cancer,bone pain
 bone cancer,swelling and tenderness near the affected area
 bone cancer,"weakened bone, leading to fracture"
@@ -3422,6 +3485,18 @@ suicide and suicidal thoughts,"doing risky or self-destructive things, such as u
 suicide and suicidal thoughts,giving away belongings or getting affairs in order when there's no other logical explanation for doing this
 suicide and suicidal thoughts,saying goodbye to people as if they won't be seen again
 suicide and suicidal thoughts,"developing personality changes or being severely anxious or agitated, particularly when experiencing some of the warning signs listed above"
+rumination syndrome,"effortless regurgitation, typically within 10 minutes of eating"
+rumination syndrome,abdominal pain or pressure relieved by regurgitation
+rumination syndrome,a feeling of fullness
+rumination syndrome,bad breath
+rumination syndrome,nausea
+rumination syndrome,unintentional weight loss
+post-polio syndrome,progressive muscle and joint weakness and pain
+post-polio syndrome,general fatigue and exhaustion with minimal activity
+post-polio syndrome,muscle atrophy
+post-polio syndrome,breathing or swallowing problems
+post-polio syndrome,"sleep-related breathing disorders, such as sleep apnea"
+post-polio syndrome,decreased tolerance of cold temperatures
 patellofemoral pain syndrome,walk up or down stairs
 patellofemoral pain syndrome,kneel or squat
 patellofemoral pain syndrome,sit with a bent knee for long periods of time
@@ -3509,13 +3584,13 @@ menstrual cramps,nausea
 menstrual cramps,loose stools
 menstrual cramps,headache
 menstrual cramps,dizziness
-impacted wisdom teet,red or swollen gums
-impacted wisdom teet,tender or bleeding gums
-impacted wisdom teet,jaw pain
-impacted wisdom teet,swelling around the jaw
-impacted wisdom teet,bad breath
-impacted wisdom teet,an unpleasant taste in your mouth
-impacted wisdom teet,difficulty opening your mouth
+impacted wisdom teeth,red or swollen gums
+impacted wisdom teeth,tender or bleeding gums
+impacted wisdom teeth,jaw pain
+impacted wisdom teeth,swelling around the jaw
+impacted wisdom teeth,bad breath
+impacted wisdom teeth,an unpleasant taste in your mouth
+impacted wisdom teeth,difficulty opening your mouth
 cervicitis,large amounts of unusual vaginal discharge
 cervicitis,"frequent, painful urination"
 cervicitis,pain during intercourse
@@ -3816,13 +3891,13 @@ lichen nitidus,shape. they are flat topped and round.
 lichen nitidus,"color. bumps are usually the same color as your skin. they may be slightly pink on people with lighter skin, or lighter than normal skin color on people with darker skin."
 lichen nitidus,"location. lichen nitidus bumps commonly occur on the chest, abdomen, arms and genital areas, including the penis. they rarely occur on the palms, soles of the feet or fingernails. lichen nitidus may clear up at one site on your body but then appear at another."
 lichen nitidus,"itch. in rare cases, the bumps of lichen nitidus may itch, sometimes intensely. they may appear in a line where there's a scratch, crease or constant pressure on the skin, such as a fold of skin on the abdomen or the crease of skin on the inside of the elbow or wrist."
-orner syndrome,a persistently small pupil (miosis)
-orner syndrome,a notable difference in pupil size between the two eyes (anisocoria)
-orner syndrome,little or delayed opening (dilation) of the affected pupil in dim light
-orner syndrome,drooping of the upper eyelid (ptosis)
-orner syndrome,"slight elevation of the lower lid, sometimes called upside-down ptosis"
-orner syndrome,sunken appearance to the eye
-orner syndrome,little or no sweating (anhidrosis) either on the entire side of the face or an isolated patch of skin on the affected side
+horner syndrome,a persistently small pupil (miosis)
+horner syndrome,a notable difference in pupil size between the two eyes (anisocoria)
+horner syndrome,little or delayed opening (dilation) of the affected pupil in dim light
+horner syndrome,drooping of the upper eyelid (ptosis)
+horner syndrome,"slight elevation of the lower lid, sometimes called upside-down ptosis"
+horner syndrome,sunken appearance to the eye
+horner syndrome,little or no sweating (anhidrosis) either on the entire side of the face or an isolated patch of skin on the affected side
 gout,"intense joint pain. gout usually affects the large joint of your big toe, but it can occur in any joint. other commonly affected joints include the ankles, knees, elbows, wrists and fingers. the pain is likely to be most severe within the first four to 12 hours after it begins."
 gout,"lingering discomfort. after the most severe pain subsides, some joint discomfort may last from a few days to a few weeks. later attacks are likely to last longer and affect more joints."
 gout,"inflammation and redness. the affected joint or joints become swollen, tender, warm and red."
@@ -3837,19 +3912,19 @@ menopause,mood changes
 menopause,weight gain and slowed metabolism
 menopause,thinning hair and dry skin
 menopause,loss of breast fullness
-emolytic uremic syndrome (hus),"diarrhea, which is often bloody"
-emolytic uremic syndrome (hus),"abdominal pain, cramping or bloating"
-emolytic uremic syndrome (hus),vomiting
-emolytic uremic syndrome (hus),fever
-emolytic uremic syndrome (hus),"pale coloring, including loss of pink color in cheeks and inside the lower eyelids"
-emolytic uremic syndrome (hus),extreme fatigue
-emolytic uremic syndrome (hus),shortness of breath
-emolytic uremic syndrome (hus),easy bruising or unexplained bruises
-emolytic uremic syndrome (hus),"unusual bleeding, such as bleeding from the nose and mouth"
-emolytic uremic syndrome (hus),decreased urination or blood in the urine
-emolytic uremic syndrome (hus),"swelling (edema) of the legs, feet or ankles, and less often in the face, hands, feet or entire body"
-emolytic uremic syndrome (hus),"confusion, seizures or stroke"
-emolytic uremic syndrome (hus),high blood pressure
+hemolytic uremic syndrome (hus),"diarrhea, which is often bloody"
+hemolytic uremic syndrome (hus),"abdominal pain, cramping or bloating"
+hemolytic uremic syndrome (hus),vomiting
+hemolytic uremic syndrome (hus),fever
+hemolytic uremic syndrome (hus),"pale coloring, including loss of pink color in cheeks and inside the lower eyelids"
+hemolytic uremic syndrome (hus),extreme fatigue
+hemolytic uremic syndrome (hus),shortness of breath
+hemolytic uremic syndrome (hus),easy bruising or unexplained bruises
+hemolytic uremic syndrome (hus),"unusual bleeding, such as bleeding from the nose and mouth"
+hemolytic uremic syndrome (hus),decreased urination or blood in the urine
+hemolytic uremic syndrome (hus),"swelling (edema) of the legs, feet or ankles, and less often in the face, hands, feet or entire body"
+hemolytic uremic syndrome (hus),"confusion, seizures or stroke"
+hemolytic uremic syndrome (hus),high blood pressure
 progeria,"slowed growth, with below-average height and weight"
 progeria,"narrowed face, small lower jaw, thin lips and beaked nose"
 progeria,head disproportionately large for the face
@@ -4154,13 +4229,13 @@ narcissistic personality disorder,have difficulty regulating emotions and behavi
 narcissistic personality disorder,experience major problems dealing with stress and adapting to change
 narcissistic personality disorder,feel depressed and moody because they fall short of perfection
 narcissistic personality disorder,"have secret feelings of insecurity, shame, vulnerability and humiliation"
-and-foot-and-mouth disease,fever
-and-foot-and-mouth disease,sore throat
-and-foot-and-mouth disease,feeling unwell
-and-foot-and-mouth disease,"painful, red, blister-like lesions on the tongue, gums and inside of the cheeks"
-and-foot-and-mouth disease,"a red rash, without itching but sometimes with blistering, on the palms, soles and sometimes the buttocks"
-and-foot-and-mouth disease,irritability in infants and toddlers
-and-foot-and-mouth disease,loss of appetite
+hand-foot-and-mouth disease,fever
+hand-foot-and-mouth disease,sore throat
+hand-foot-and-mouth disease,feeling unwell
+hand-foot-and-mouth disease,"painful, red, blister-like lesions on the tongue, gums and inside of the cheeks"
+hand-foot-and-mouth disease,"a red rash, without itching but sometimes with blistering, on the palms, soles and sometimes the buttocks"
+hand-foot-and-mouth disease,irritability in infants and toddlers
+hand-foot-and-mouth disease,loss of appetite
 pancreatic cancer,abdominal pain that radiates to your back
 pancreatic cancer,loss of appetite or unintended weight loss
 pancreatic cancer,yellowing of your skin and the whites of your eyes (jaundice)
@@ -4475,6 +4550,11 @@ pulmonary hypertension,chest pressure or pain
 pulmonary hypertension,"swelling (edema) in your ankles, legs and eventually in your abdomen (ascites)"
 pulmonary hypertension,bluish color to your lips and skin (cyanosis)
 pulmonary hypertension,racing pulse or heart palpitations
+varicocele,vary from sharp to dull discomfort
+varicocele,"increase with standing or physical exertion, especially over long periods"
+varicocele,worsen over the course of a day
+varicocele,be relieved when you lie on your back
+varicocele,impaired fertility
 female sexual dysfunction,low sexual desire. this most common of female sexual dysfunctions involves a lack of sexual interest and willingness to be sexual.
 female sexual dysfunction,"sexual arousal disorder. your desire for sex might be intact, but you have difficulty with arousal or are unable to become aroused or maintain arousal during sexual activity."
 female sexual dysfunction,orgasmic disorder. you have persistent or recurrent difficulty in achieving orgasm after sufficient sexual arousal and ongoing stimulation.
@@ -4516,6 +4596,10 @@ coronavirus disease 2019 (covid-19),brain and nervous system conditions
 coronavirus disease 2019 (covid-19),"weakened immune system from bone marrow transplant, hiv or some medications"
 coronavirus disease 2019 (covid-19),type 1 diabetes
 coronavirus disease 2019 (covid-19),high blood pressure
+legg-calve-perthes disease,limping
+legg-calve-perthes disease,"pain or stiffness in the hip, groin, thigh or knee"
+legg-calve-perthes disease,limited range of motion of the hip joint
+legg-calve-perthes disease,pain that worsens with activity and improves with rest
 frostbite,"at first, cold skin and a prickling feeling"
 frostbite,numbness
 frostbite,"red, white, bluish-white or grayish-yellow skin"
@@ -4567,6 +4651,12 @@ mixed connective tissue disease,"cold and numb fingers or toes (raynaud's phenom
 mixed connective tissue disease,swollen fingers or hands. some people have swelling of the fingers.
 mixed connective tissue disease,"muscle and joint pain. joints can become inflamed, swollen and deformed, similar to what occurs with rheumatoid arthritis."
 mixed connective tissue disease,rash. red or reddish brown patches can appear over the knuckles.
+giardia infection (giardiasis),"watery, sometimes foul-smelling diarrhea that may alternate with soft, greasy stools"
+giardia infection (giardiasis),fatigue
+giardia infection (giardiasis),stomach cramps and bloating
+giardia infection (giardiasis),gas
+giardia infection (giardiasis),nausea
+giardia infection (giardiasis),weight loss
 lichen planus,"purplish, flat bumps, most often on the inner forearm, wrist or ankle, and sometimes the genitals"
 lichen planus,itching
 lichen planus,blisters that break to form scabs or crusts
@@ -4575,6 +4665,11 @@ lichen planus,painful sores in the mouth or vagina
 lichen planus,hair loss
 lichen planus,change in scalp color
 lichen planus,nail damage or loss
+broken wrist,severe pain that might worsen when gripping or squeezing or moving your hand or wrist
+broken wrist,swelling
+broken wrist,tenderness
+broken wrist,bruising
+broken wrist,"obvious deformity, such as a bent wrist"
 myelodysplastic syndromes,fatigue
 myelodysplastic syndromes,shortness of breath
 myelodysplastic syndromes,unusual paleness (pallor) which occurs due to a low red blood cell count (anemia)
@@ -4593,6 +4688,14 @@ myofascial pain syndrome,"deep, aching pain in a muscle"
 myofascial pain syndrome,pain that persists or worsens
 myofascial pain syndrome,a tender knot in a muscle
 myofascial pain syndrome,difficulty sleeping due to pain
+reactive attachment disorder,"unexplained withdrawal, fear, sadness or irritability"
+reactive attachment disorder,sad and listless appearance
+reactive attachment disorder,not seeking comfort or showing no response when comfort is given
+reactive attachment disorder,failure to smile
+reactive attachment disorder,watching others closely but not engaging in social interaction
+reactive attachment disorder,failing to ask for support or assistance
+reactive attachment disorder,failure to reach out when picked up
+reactive attachment disorder,no interest in playing peekaboo or other interactive games
 cutaneous t-cell lymphoma,round patches of skin that may be raised or scaly and might be itchy
 cutaneous t-cell lymphoma,patches of skin that appear lighter in color than surrounding skin
 cutaneous t-cell lymphoma,lumps that form on the skin and may break open
@@ -4683,12 +4786,12 @@ actinic keratosis,flat to slightly raised patch or bump on the top layer of skin
 actinic keratosis,"in some cases, a hard, wartlike surface"
 actinic keratosis,"color as varied as pink, red or brown"
 actinic keratosis,itching or burning in the affected area
-irsutism,deepening voice
-irsutism,balding
-irsutism,acne
-irsutism,decreased breast size
-irsutism,increased muscle mass
-irsutism,enlargement of the clitoris
+hirsutism,deepening voice
+hirsutism,balding
+hirsutism,acne
+hirsutism,decreased breast size
+hirsutism,increased muscle mass
+hirsutism,enlargement of the clitoris
 bartholin's cyst,"a tender, painful lump near the vaginal opening"
 bartholin's cyst,discomfort while walking or sitting
 bartholin's cyst,pain during intercourse
@@ -4757,13 +4860,13 @@ food allergy,constriction of airways that makes it difficult to breathe
 food allergy,shock with a severe drop in blood pressure
 food allergy,rapid pulse
 food allergy,dizziness or lightheadedness
-earing loss,muffling of speech and other sounds
-earing loss,"difficulty understanding words, especially against background noise or in a crowd"
-earing loss,trouble hearing consonants
-earing loss,"frequently asking others to speak more slowly, clearly and loudly"
-earing loss,needing to turn up the volume of the television or radio
-earing loss,withdrawal from conversations
-earing loss,avoidance of some social settings
+hearing loss,muffling of speech and other sounds
+hearing loss,"difficulty understanding words, especially against background noise or in a crowd"
+hearing loss,trouble hearing consonants
+hearing loss,"frequently asking others to speak more slowly, clearly and loudly"
+hearing loss,needing to turn up the volume of the television or radio
+hearing loss,withdrawal from conversations
+hearing loss,avoidance of some social settings
 mild cognitive impairment (mci),you forget things more often.
 mild cognitive impairment (mci),you forget important events such as appointments or social engagements.
 mild cognitive impairment (mci),"you lose your train of thought or the thread of conversations, books or movies."
@@ -4903,25 +5006,25 @@ interstitial cystitis,"a persistent, urgent need to urinate"
 interstitial cystitis,"frequent urination, often of small amounts, throughout the day and night (up to 60 times a day)"
 interstitial cystitis,pain or discomfort while the bladder fills and relief after urinating.
 interstitial cystitis,pain during sexual intercourse.
-dry mout,dryness or a feeling of stickiness in your mouth
-dry mout,saliva that seems thick and stringy
-dry mout,bad breath
-dry mout,"difficulty chewing, speaking and swallowing"
-dry mout,dry or sore throat and hoarseness
-dry mout,dry or grooved tongue
-dry mout,a changed sense of taste
-dry mout,problems wearing dentures
+dry mouth,dryness or a feeling of stickiness in your mouth
+dry mouth,saliva that seems thick and stringy
+dry mouth,bad breath
+dry mouth,"difficulty chewing, speaking and swallowing"
+dry mouth,dry or sore throat and hoarseness
+dry mouth,dry or grooved tongue
+dry mouth,a changed sense of taste
+dry mouth,problems wearing dentures
 transient ischemic attack (tia),"weakness, numbness or paralysis in your face, arm or leg, typically on one side of your body"
 transient ischemic attack (tia),slurred or garbled speech or difficulty understanding others
 transient ischemic attack (tia),blindness in one or both eyes or double vision
 transient ischemic attack (tia),vertigo or loss of balance or coordination
-emophilia,"unexplained and excessive bleeding from cuts or injuries, or after surgery or dental work"
-emophilia,many large or deep bruises
-emophilia,unusual bleeding after vaccinations
-emophilia,"pain, swelling or tightness in your joints"
-emophilia,blood in your urine or stool
-emophilia,nosebleeds without a known cause
-emophilia,"in infants, unexplained irritability"
+hemophilia,"unexplained and excessive bleeding from cuts or injuries, or after surgery or dental work"
+hemophilia,many large or deep bruises
+hemophilia,unusual bleeding after vaccinations
+hemophilia,"pain, swelling or tightness in your joints"
+hemophilia,blood in your urine or stool
+hemophilia,nosebleeds without a known cause
+hemophilia,"in infants, unexplained irritability"
 ovarian cysts,pelvic pain — a dull or sharp ache in the lower abdomen on the side of the cyst
 ovarian cysts,fullness or heaviness in your abdomen
 ovarian cysts,bloating
@@ -5189,6 +5292,21 @@ soy allergy,"difficulty breathing, caused by throat swelling"
 soy allergy,"shock, with a severe drop in blood pressure"
 soy allergy,rapid pulse
 soy allergy,"dizziness, lightheadedness or loss of consciousness"
+respiratory syncytial virus (rsv),congested or runny nose
+respiratory syncytial virus (rsv),dry cough
+respiratory syncytial virus (rsv),low-grade fever
+respiratory syncytial virus (rsv),sore throat
+respiratory syncytial virus (rsv),mild headache
+respiratory syncytial virus (rsv),fever
+respiratory syncytial virus (rsv),severe cough
+respiratory syncytial virus (rsv),wheezing — a high-pitched noise that's usually heard on breathing out (exhaling)
+respiratory syncytial virus (rsv),rapid breathing or difficulty breathing — the child may prefer to sit up rather than lie down
+respiratory syncytial virus (rsv),bluish color of the skin due to lack of oxygen (cyanosis)
+respiratory syncytial virus (rsv),"short, shallow and rapid breathing"
+respiratory syncytial virus (rsv),cough
+respiratory syncytial virus (rsv),poor feeding
+respiratory syncytial virus (rsv),unusual tiredness (lethargy)
+respiratory syncytial virus (rsv),irritability
 tachycardia,shortness of breath
 tachycardia,lightheadedness
 tachycardia,rapid pulse rate
@@ -5238,19 +5356,19 @@ edema,"swelling or puffiness of the tissue directly under your skin, especially 
 edema,stretched or shiny skin
 edema,"skin that retains a dimple (pits), after being pressed for several seconds"
 edema,increased abdominal size
-unter syndrome,an enlarged head
-unter syndrome,thickening of the lips
-unter syndrome,a broad nose and flared nostrils
-unter syndrome,a protruding tongue
-unter syndrome,"a deep, hoarse voice"
-unter syndrome,abnormal bone size or shape and other skeletal irregularities
-unter syndrome,"a distended abdomen, as a result of enlarged internal organs"
-unter syndrome,chronic diarrhea
-unter syndrome,white skin growths that resemble pebbles
-unter syndrome,joint stiffness
-unter syndrome,aggressive behavior
-unter syndrome,stunted growth
-unter syndrome,"delayed development, such as late walking or talking"
+hunter syndrome,an enlarged head
+hunter syndrome,thickening of the lips
+hunter syndrome,a broad nose and flared nostrils
+hunter syndrome,a protruding tongue
+hunter syndrome,"a deep, hoarse voice"
+hunter syndrome,abnormal bone size or shape and other skeletal irregularities
+hunter syndrome,"a distended abdomen, as a result of enlarged internal organs"
+hunter syndrome,chronic diarrhea
+hunter syndrome,white skin growths that resemble pebbles
+hunter syndrome,joint stiffness
+hunter syndrome,aggressive behavior
+hunter syndrome,stunted growth
+hunter syndrome,"delayed development, such as late walking or talking"
 painful intercourse (dyspareunia),pain only at sexual entry (penetration)
 painful intercourse (dyspareunia),"pain with every penetration, including putting in a tampon"
 painful intercourse (dyspareunia),deep pain during thrusting
@@ -5471,13 +5589,13 @@ dehydration,has had diarrhea for 24 hours or more
 dehydration,is irritable or disoriented and much sleepier or less active than usual
 dehydration,can't keep down fluids
 dehydration,has bloody or black stool
-iatal hernia,heartburn
-iatal hernia,regurgitation of food or liquids into the mouth
-iatal hernia,backflow of stomach acid into the esophagus (acid reflux)
-iatal hernia,difficulty swallowing
-iatal hernia,chest or abdominal pain
-iatal hernia,shortness of breath
-iatal hernia,"vomiting of blood or passing of black stools, which may indicate gastrointestinal bleeding"
+hiatal hernia,heartburn
+hiatal hernia,regurgitation of food or liquids into the mouth
+hiatal hernia,backflow of stomach acid into the esophagus (acid reflux)
+hiatal hernia,difficulty swallowing
+hiatal hernia,chest or abdominal pain
+hiatal hernia,shortness of breath
+hiatal hernia,"vomiting of blood or passing of black stools, which may indicate gastrointestinal bleeding"
 personality disorders,pervasive distrust and suspicion of others and their motives
 personality disorders,unjustified belief that others are trying to harm or deceive you
 personality disorders,unjustified suspicion of the loyalty or trustworthiness of others
@@ -5699,6 +5817,15 @@ ramsay hunt syndrome,a change in taste perception or loss of taste
 ramsay hunt syndrome,dry mouth and eyes
 melanoma,a change in an existing mole
 melanoma,the development of a new pigmented or unusual-looking growth on your skin
+shaken baby syndrome,extreme fussiness or irritability
+shaken baby syndrome,difficulty staying awake
+shaken baby syndrome,breathing problems
+shaken baby syndrome,poor eating
+shaken baby syndrome,vomiting
+shaken baby syndrome,pale or bluish skin
+shaken baby syndrome,seizures
+shaken baby syndrome,paralysis
+shaken baby syndrome,coma
 systemic capillary leak syndrome,irritability
 systemic capillary leak syndrome,fatigue
 systemic capillary leak syndrome,abdominal pain
@@ -5882,12 +6009,12 @@ aphasia,substitute one word for another or one sound for another
 aphasia,speak unrecognizable words
 aphasia,not understand other people's conversation
 aphasia,write sentences that don't make sense
-ereditary hemorrhagic telangiectasia,"nosebleeds, sometimes on a daily basis and often starting in childhood"
-ereditary hemorrhagic telangiectasia,"lacy red vessels or tiny red spots, particularly on the lips, face, fingertips, tongue and inside surfaces of the mouth"
-ereditary hemorrhagic telangiectasia,iron deficiency anemia
-ereditary hemorrhagic telangiectasia,shortness of breath
-ereditary hemorrhagic telangiectasia,headaches
-ereditary hemorrhagic telangiectasia,seizures
+hereditary hemorrhagic telangiectasia,"nosebleeds, sometimes on a daily basis and often starting in childhood"
+hereditary hemorrhagic telangiectasia,"lacy red vessels or tiny red spots, particularly on the lips, face, fingertips, tongue and inside surfaces of the mouth"
+hereditary hemorrhagic telangiectasia,iron deficiency anemia
+hereditary hemorrhagic telangiectasia,shortness of breath
+hereditary hemorrhagic telangiectasia,headaches
+hereditary hemorrhagic telangiectasia,seizures
 enlarged breasts in men (gynecomastia),swollen breast tissue
 enlarged breasts in men (gynecomastia),breast tenderness
 chiari malformation,type i
@@ -5916,9 +6043,9 @@ heart murmurs,heavy sweating with little or no activity
 heart murmurs,chest pain
 heart murmurs,dizziness
 heart murmurs,fainting
-erniated disk,"arm or leg pain. if your herniated disk is in your lower back, you'll typically feel the most pain in your buttocks, thigh and calf. you might have pain in part of the foot, as well. if your herniated disk is in your neck, you'll typically feel the most pain in your shoulder and arm. this pain might shoot into your arm or leg when you cough, sneeze or move into certain positions. pain is often described as sharp or burning."
-erniated disk,numbness or tingling. people who have a herniated disk often have radiating numbness or tingling in the body part served by the affected nerves.
-erniated disk,"weakness. muscles served by the affected nerves tend to weaken. this can cause you to stumble, or affect your ability to lift or hold items."
+herniated disk,"arm or leg pain. if your herniated disk is in your lower back, you'll typically feel the most pain in your buttocks, thigh and calf. you might have pain in part of the foot, as well. if your herniated disk is in your neck, you'll typically feel the most pain in your shoulder and arm. this pain might shoot into your arm or leg when you cough, sneeze or move into certain positions. pain is often described as sharp or burning."
+herniated disk,numbness or tingling. people who have a herniated disk often have radiating numbness or tingling in the body part served by the affected nerves.
+herniated disk,"weakness. muscles served by the affected nerves tend to weaken. this can cause you to stumble, or affect your ability to lift or hold items."
 dissociative disorders,"memory loss (amnesia) of certain time periods, events, people and personal information"
 dissociative disorders,a sense of being detached from yourself and your emotions
 dissociative disorders,a perception of the people and things around you as distorted and unreal
@@ -5929,10 +6056,10 @@ dissociative disorders,"mental health problems, such as depression, anxiety, and
 dissociative disorders,"dissociative amnesia. the main symptom is memory loss that's more severe than normal forgetfulness and that can't be explained by a medical condition. you can't recall information about yourself or events and people in your life, especially from a traumatic time. dissociative amnesia can be specific to events in a certain time, such as intense combat, or more rarely, can involve complete loss of memory about yourself. it may sometimes involve travel or confused wandering away from your life (dissociative fugue). an episode of amnesia usually occurs suddenly and may last minutes, hours, or rarely, months or years."
 dissociative disorders,"dissociative identity disorder. formerly known as multiple personality disorder, this disorder is characterized by ""switching"" to alternate identities. you may feel the presence of two or more people talking or living inside your head, and you may feel as though you're possessed by other identities. each identity may have a unique name, personal history and characteristics, including obvious differences in voice, gender, mannerisms and even such physical qualities as the need for eyeglasses. there also are differences in how familiar each identity is with the others. people with dissociative identity disorder typically also have dissociative amnesia and often have dissociative fugue."
 dissociative disorders,"depersonalization-derealization disorder. this involves an ongoing or episodic sense of detachment or being outside yourself — observing your actions, feelings, thoughts and self from a distance as though watching a movie (depersonalization). other people and things around you may feel detached and foggy or dreamlike, time may be slowed down or sped up, and the world may seem unreal (derealization). you may experience depersonalization, derealization or both. symptoms, which can be profoundly distressing, may last only a few moments or come and go over many years."
-pv infection,"genital warts. these appear as flat lesions, small cauliflower-like bumps or tiny stemlike protrusions. in women, genital warts appear mostly on the vulva but can also occur near the anus, on the cervix or in the vagina."
-pv infection,"common warts. common warts appear as rough, raised bumps and usually occur on the hands and fingers. in most cases, common warts are simply unsightly, but they can also be painful or susceptible to injury or bleeding."
-pv infection,"plantar warts. plantar warts are hard, grainy growths that usually appear on the heels or balls of your feet. these warts might cause discomfort."
-pv infection,"flat warts. flat warts are flat-topped, slightly raised lesions. they can appear anywhere, but children usually get them on the face and men tend to get them in the beard area. women tend to get them on the legs."
+hpv infection,"genital warts. these appear as flat lesions, small cauliflower-like bumps or tiny stemlike protrusions. in women, genital warts appear mostly on the vulva but can also occur near the anus, on the cervix or in the vagina."
+hpv infection,"common warts. common warts appear as rough, raised bumps and usually occur on the hands and fingers. in most cases, common warts are simply unsightly, but they can also be painful or susceptible to injury or bleeding."
+hpv infection,"plantar warts. plantar warts are hard, grainy growths that usually appear on the heels or balls of your feet. these warts might cause discomfort."
+hpv infection,"flat warts. flat warts are flat-topped, slightly raised lesions. they can appear anywhere, but children usually get them on the face and men tend to get them in the beard area. women tend to get them on the legs."
 post-traumatic stress disorder (ptsd),"recurrent, unwanted distressing memories of the traumatic event"
 post-traumatic stress disorder (ptsd),reliving the traumatic event as if it were happening again (flashbacks)
 post-traumatic stress disorder (ptsd),upsetting dreams or nightmares about the traumatic event
@@ -5977,13 +6104,13 @@ liposarcoma,abdominal swelling
 liposarcoma,feeling full sooner when eating
 liposarcoma,constipation
 liposarcoma,blood in stool
-istoplasmosis,fever
-istoplasmosis,chills
-istoplasmosis,headache
-istoplasmosis,muscle aches
-istoplasmosis,dry cough
-istoplasmosis,chest discomfort
-istoplasmosis,fatigue
+histoplasmosis,fever
+histoplasmosis,chills
+histoplasmosis,headache
+histoplasmosis,muscle aches
+histoplasmosis,dry cough
+histoplasmosis,chest discomfort
+histoplasmosis,fatigue
 mental illness,feeling sad or down
 mental illness,confused thinking or reduced ability to concentrate
 mental illness,"excessive fears or worries, or extreme feelings of guilt"
@@ -5998,12 +6125,12 @@ mental illness,major changes in eating habits
 mental illness,sex drive changes
 mental illness,"excessive anger, hostility or violence"
 mental illness,suicidal thinking
-airy cell leukemia,a feeling of fullness in your abdomen that may make it uncomfortable to eat more than a little at a time
-airy cell leukemia,fatigue
-airy cell leukemia,easy bruising
-airy cell leukemia,recurring infections
-airy cell leukemia,weakness
-airy cell leukemia,weight loss
+hairy cell leukemia,a feeling of fullness in your abdomen that may make it uncomfortable to eat more than a little at a time
+hairy cell leukemia,fatigue
+hairy cell leukemia,easy bruising
+hairy cell leukemia,recurring infections
+hairy cell leukemia,weakness
+hairy cell leukemia,weight loss
 spontaneous coronary artery dissection (scad),chest pain
 spontaneous coronary artery dissection (scad),a rapid heartbeat or fluttery feeling in your chest
 spontaneous coronary artery dissection (scad),"pain in your arms, shoulders or jaw"
@@ -6040,13 +6167,13 @@ lewy body dementia,"sleep difficulties. you may have rapid eye movement (rem) sl
 lewy body dementia,"fluctuating attention. episodes of drowsiness, long periods of staring into space, long naps during the day or disorganized speech are possible."
 lewy body dementia,depression. you may experience depression sometime during the course of your illness.
 lewy body dementia,apathy. you may have loss of motivation.
-odgkin's lymphoma (hodgkin's disease),"painless swelling of lymph nodes in your neck, armpits or groin"
-odgkin's lymphoma (hodgkin's disease),persistent fatigue
-odgkin's lymphoma (hodgkin's disease),fever
-odgkin's lymphoma (hodgkin's disease),night sweats
-odgkin's lymphoma (hodgkin's disease),unexplained weight loss
-odgkin's lymphoma (hodgkin's disease),severe itching
-odgkin's lymphoma (hodgkin's disease),increased sensitivity to the effects of alcohol or pain in your lymph nodes after drinking alcohol
+hodgkin's lymphoma (hodgkin's disease),"painless swelling of lymph nodes in your neck, armpits or groin"
+hodgkin's lymphoma (hodgkin's disease),persistent fatigue
+hodgkin's lymphoma (hodgkin's disease),fever
+hodgkin's lymphoma (hodgkin's disease),night sweats
+hodgkin's lymphoma (hodgkin's disease),unexplained weight loss
+hodgkin's lymphoma (hodgkin's disease),severe itching
+hodgkin's lymphoma (hodgkin's disease),increased sensitivity to the effects of alcohol or pain in your lymph nodes after drinking alcohol
 ulcerative colitis,"diarrhea, often with blood or pus"
 ulcerative colitis,abdominal pain and cramping
 ulcerative colitis,rectal pain
@@ -6136,6 +6263,11 @@ heart arrhythmia,fatigue
 heart arrhythmia,lightheadedness or dizziness
 heart arrhythmia,sweating
 heart arrhythmia,fainting (syncope) or near fainting
+primary lateral sclerosis (pls),"stiffness, weakness and muscle spasms (spasticity) in your legs, often starting in one leg"
+primary lateral sclerosis (pls),"tripping, difficulty with balance and clumsiness as the leg muscles weaken"
+primary lateral sclerosis (pls),"weakness and stiffness progressing to your trunk, then your arms, hands, tongue and jaw"
+primary lateral sclerosis (pls),"hoarseness, as well as slowed, slurred speech and drooling as the facial muscles weaken"
+primary lateral sclerosis (pls),difficulties with swallowing and occasionally breathing late in the disease
 bile reflux,upper abdominal pain that may be severe
 bile reflux,"frequent heartburn — a burning sensation in your chest that sometimes spreads to your throat, along with a sour taste in your mouth"
 bile reflux,nausea
@@ -6148,10 +6280,10 @@ bipolar disorder,"bipolar i disorder. you've had at least one manic episode that
 bipolar disorder,"bipolar ii disorder. you've had at least one major depressive episode and at least one hypomanic episode, but you've never had a manic episode."
 bipolar disorder,cyclothymic disorder. you've had at least two years — or one year in children and teenagers — of many periods of hypomania symptoms and periods of depressive symptoms (though less severe than major depression).
 bipolar disorder,"other types. these include, for example, bipolar and related disorders induced by certain drugs or alcohol or due to a medical condition, such as cushing's disease, multiple sclerosis or stroke."
-ead lice,"itching. the most common symptom of a lice infestation is itching on the scalp, neck and ears. this is an allergic reaction to louse bites. when a person has a lice infestation for the first time, itching may not occur for four to six weeks after infestation."
-ead lice,"lice on scalp. lice may be visible but are difficult to spot because they're small, avoid light and move quickly."
-ead lice,"lice eggs (nits) on hair shafts. nits stick to hair shafts. incubating nits may be difficult to see because they're very tiny. they're easiest to spot around the ears and the hairline of the neck. empty nits may be easier to spot because they're lighter in color and further from the scalp. however, the presence of nits doesn't necessarily indicate an active infestation."
-ead lice,"sores on the scalp, neck and shoulders. scratching can lead to small, red bumps that may sometimes get infected with bacteria."
+head lice,"itching. the most common symptom of a lice infestation is itching on the scalp, neck and ears. this is an allergic reaction to louse bites. when a person has a lice infestation for the first time, itching may not occur for four to six weeks after infestation."
+head lice,"lice on scalp. lice may be visible but are difficult to spot because they're small, avoid light and move quickly."
+head lice,"lice eggs (nits) on hair shafts. nits stick to hair shafts. incubating nits may be difficult to see because they're very tiny. they're easiest to spot around the ears and the hairline of the neck. empty nits may be easier to spot because they're lighter in color and further from the scalp. however, the presence of nits doesn't necessarily indicate an active infestation."
+head lice,"sores on the scalp, neck and shoulders. scratching can lead to small, red bumps that may sometimes get infected with bacteria."
 acute liver failure,yellowing of your skin and eyeballs (jaundice)
 acute liver failure,pain in your upper right abdomen
 acute liver failure,abdominal swelling (ascites)
@@ -6181,6 +6313,14 @@ kidney infection,burning sensation or pain when urinating
 kidney infection,nausea and vomiting
 kidney infection,pus or blood in your urine (hematuria)
 kidney infection,urine that smells bad or is cloudy
+broken collarbone,pain that increases with shoulder movement
+broken collarbone,swelling
+broken collarbone,tenderness
+broken collarbone,bruising
+broken collarbone,a bulge on or near your shoulder
+broken collarbone,a grinding or crackling sound when you try to move your shoulder
+broken collarbone,stiffness or inability to move your shoulder
+broken collarbone,newborn children will often not move their arm for several days following a birth-related collarbone fracture.
 trichotillomania (hair-pulling disorder),"repeatedly pulling your hair out, typically from your scalp, eyebrows or eyelashes, but sometimes from other body areas, and sites may vary over time"
 trichotillomania (hair-pulling disorder),"an increasing sense of tension before pulling, or when you try to resist pulling"
 trichotillomania (hair-pulling disorder),a sense of pleasure or relief after the hair is pulled

@@ -37,7 +37,6 @@ def save_feature_as_tokens(data_set):
     symptom_list = token_obj.keys()
     header = ['disease']
     header.extend(symptom_list)
-    import pdb; pdb.set_trace()
     csv_writer.writerow(header)
     for title, tokens in data_set:
         token_obj = copy.copy(token_dict)
@@ -109,8 +108,8 @@ def extract_all_features():
                 title = each_line
                 title_flag = 1
                 #to fix data issue TODO: to fix data title issue
-                if title.startswith(('y', 'eart')) and not title.startswith('yeast'):
-                    title = "h{}".format(title)
+                # if title.startswith(('y', 'eart')) and not title.startswith('yeast'):
+                #     title = "h{}".format(title)
                 
             if not flag and each_line == 'symptoms':
                 flag = 1
